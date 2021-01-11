@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [yuichi.hattori@owasp.org](mailto:Yuichi Hattori)
+* [kohei.morita@owasp.org](mailto:Kohei Morita)
