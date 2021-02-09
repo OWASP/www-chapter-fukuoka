@@ -8,32 +8,33 @@ region: Asia
 ---
 
 ## OWASP Fukuoka へようこそ
-OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebアプリケーションセキュリティに関する情報や文書、知識の共有、普及を目的としたオープンで非営利のオープンソース・ソフトウェアコミュニティであるOWASP Foundationの ***福岡支部*** です。2021年からChapter名をKyushuからFukuokaに変更して再スタートしました。
+OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebアプリケーションセキュリティに関する情報や文書、知識の共有、普及を目的としたオープンで非営利のオープンソース・ソフトウェアコミュニティであるOWASP Foundationの ***福岡支部*** です。  
+2021年からChapter名をKyushuからFukuokaに変更して再スタートしました。
+
+---
 
 ## 次回ミーティング
 
 ### OWASP Fukuoka Meeting #1 
-   * 2020年2月17日(水) 19:00～21:00 (終了時間は前後します) オンライン開催
-      * 今回はOWASP Sendaiとのリレー開催です。19:00からOWASP Fukuoka、20:00からOWASP Sendaiとなります。
-        参加登録はOWASP Fukuoka, Sendaiどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはFukuoka&Sendai共通で、どちらからでも参加可能です。
-   * トークトピック
-      * Kubernetes Security for penetration testers - OWASP Fukuoka Chapter Leader 森田 浩平
-   * スケジュール
+今回はOWASP Sendaiとのリレー開催です。19:00からOWASP Fukuoka、20:00からOWASP Sendaiとなります。参加登録はOWASP Fukuoka, Sendaiどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはFukuoka&Sendai共通で、どちらからでも参加可能です。
+   * 日時: 2020/2/17(水) 19:00～21:00 (終了時間は前後します) 
+   * 場所: オンライン開催
+   * タイムスケジュール
       * 19:00 OWASP Fukuokaスタート
       * 20:00 OWASP Sendaiスタート
       * 21:00 イベント終了（終了時間は進行状況により前後いたします）
-      <br>
-
+   * トークトピック(OWASP Fukuoka)
+      * Kubernetes Security for penetration testers - OWASP Fukuoka Chapter Leader 森田 浩平
+        * 近年、アプリケーションを Linux コンテナ上で動かすことが増えてきており、その基盤として Kubernetes などのコンテナオーケストレーションツールが利用されています。もし Web アプリケーションにSSRFや任意コード実行可能な脆弱性があった場合に、この基盤上で、どのような権限昇格ができるのでしょうか。本セッションでは Kubernetes や周辺のエコシステムへの攻撃手法やマイクロサービスでの API の保護について紹介します。
    * 参加お申し込み
       * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/200714/)
+---
 
-# スピーカーとして参加をご希望の方へ
+## スピーカーとして参加をご希望の方へ
 
-OWASP Fukuokaミーティングに、スピーカーとして参加をご希望の方は、 [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement)をご覧いただき、チャプターリーダーにプレゼンテーションしたいトピックをお知らせ下さい。
+OWASP Fukuokaミーティングに、スピーカーとして参加をご希望の方は、 [Keynote, Speaker, and Trainer Agreement](https://owasp.org/www-policy/legal/speaker-agreement)をご覧いただき、チャプターリーダーにプレゼンテーションしたいトピックをお知らせ下さい。
 <br>
 
-
----
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
