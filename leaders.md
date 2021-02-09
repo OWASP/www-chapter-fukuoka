@@ -7,4 +7,4 @@
 
 * Shuya Motouchi
 * Yusuke Nakano
-* katsumi Koutake
+* Katsumi Kotake
