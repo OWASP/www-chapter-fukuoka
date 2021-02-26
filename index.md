@@ -16,7 +16,18 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
 ## 次回ミーティング
 
 ### OWASP Fukuoka Meeting #2 
-4/14に開催する予定です。詳細が決まり次第、記載します。
+今回はOWASP Sendai,Okinawaとのリレー開催です。参加登録はOWASP Fukuoka, Sendai, Okinawaどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはSendai, Fukuoka, Okinawa共通です、どちらからでも参加可能です。
+   * 日時: 2020/4/14(水) 19:00～21:15
+   * 場所: オンライン開催
+   * タイムスケジュール
+      * 19:00 OWASP Sendaiスタート
+      * 19:45 OWASP Fukuokaスタート
+      * 20:30 OWASP Okinawaスタート
+   * トークトピック(OWASP Fukuoka)
+      * Go言語でセキュアなWebアプリケーションを作るためのガイドであるOWASP/Go-SCP の歩き方 - OWASP Fukuoka Chapter Board Member Shuya Motouchi
+        * 近年、Go言語でWebアプリケーションを開発する機会が増えてきました。本セッションではOWASP セキュアコーディングプラクティス - クイックリファレンスガイド に準拠している OWASP/Go-SCP についての概要といくつかの例題について紹介します。
+   * 参加お申し込み
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/205625/)
       
 ---
 
