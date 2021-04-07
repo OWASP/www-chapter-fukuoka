@@ -16,11 +16,12 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
 ## 次回ミーティング
 
 ### OWASP Fukuoka Meeting #2 
-今回はOWASP Sendai,Okinawaとのリレー開催です。参加登録はOWASP Fukuoka, Sendai, Okinawaどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはSendai, Fukuoka, Okinawa共通です、どちらからでも参加可能です。
+今回はOWASP Sendai,Okinawaとのリレー開催です。参加登録はOWASP Fukuoka, Sendai, Okinawa, Nagoyaどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはSendai, Fukuoka, Okinawa, Nagoya共通です、どちらからでも参加可能です。
    * 日時: 2020/4/14(水) 19:00～21:15
    * 場所: オンライン開催
    * タイムスケジュール
-      * 19:00 OWASP Sendaiスタート
+      * 18:30 OWASP Sendaiスタート
+      * 19:00 OWASP Nagoyaスタート
       * 19:45 OWASP Fukuokaスタート
       * 20:30 OWASP Okinawaスタート
    * トークトピック(OWASP Fukuoka)
