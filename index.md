@@ -16,8 +16,16 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
 ## 次回ミーティング
 
 ### OWASP Fukuoka Meeting #3 
-次回は6月オンライン開催予定です。
-詳細はもうしばらくお待ちください。
+今回はOWASP Sendaiとのリレー開催です。参加登録はいずれのチャプターからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLは共通です、どちらからでも参加可能です。
+   * 日時: 2020/6/13(水) 19:00～20:30
+   * 場所: オンライン開催
+   * タイムスケジュール
+      * 19:00 OWASP Fukuokaスタート
+      * 19:45 OWASP Sendaiスタート
+   * トークトピック(OWASP Fukuoka)
+      * インフラエンジニア視点から見るDDoS攻撃とその防御（仮） - OWASP Fukuoka Chapter Board Member Katsumi Kotake
+   * 参加お申し込み
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/213118/)
       
 ---
 
