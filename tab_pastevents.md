@@ -9,6 +9,19 @@ tags: fukuoka-tag
 
 ## 過去のミーティング
 
+### OWASP Fukuoka Meeting #3 
+今回はOWASP Sendaiとのリレー開催です。参加登録はいずれのチャプターからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLは共通です、どちらからでも参加可能です。
+   * 日時: 2021/6/23(水) 19:00～20:30
+   * 場所: オンライン開催
+   * タイムスケジュール
+      * 19:00 OWASP Fukuokaスタート
+      * 19:45 OWASP Sendaiスタート
+   * トークトピック(OWASP Fukuoka)
+      * インフラエンジニア視点から見るDDoS攻撃とその防御（仮） - OWASP Fukuoka Chapter Board Member Katsumi Kotake
+   * 参加お申し込み
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/213118/)
+      
+
 ### OWASP Fukuoka Meeting #2 
 今回はOWASP Sendai,Okinawaとのリレー開催です。参加登録はOWASP Fukuoka, Sendai, Okinawa, Nagoyaどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはSendai, Fukuoka, Okinawa, Nagoya共通です、どちらからでも参加可能です。
    * 日時: 2021/4/14(水) 19:00～21:15
