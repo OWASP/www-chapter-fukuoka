@@ -11,7 +11,7 @@ tags: fukuoka-tag
 
 ### OWASP Fukuoka Meeting #2 
 今回はOWASP Sendai,Okinawaとのリレー開催です。参加登録はOWASP Fukuoka, Sendai, Okinawa, Nagoyaどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはSendai, Fukuoka, Okinawa, Nagoya共通です、どちらからでも参加可能です。
-   * 日時: 2020/4/14(水) 19:00～21:15
+   * 日時: 2021/4/14(水) 19:00～21:15
    * 場所: オンライン開催
    * タイムスケジュール
       * 18:30 OWASP Sendaiスタート
@@ -27,7 +27,7 @@ tags: fukuoka-tag
 
 ### OWASP Fukuoka Meeting #1 
 今回はOWASP Sendai,Nagoyaとのリレー開催です。19:00からOWASP Fukuoka、20:00からOWASP Sendai、21:00からNagoyaとなります。参加登録はOWASP Fukuoka, Sendai, Nagoyaどちらからお申込みいただいても両方にご参加いただけます。Youtube LiveのURLはFukuoka&Sendai&Nagoya共通で、どちらからでも参加可能です。
-   * 日時: 2020/2/17(水) 19:00～21:30
+   * 日時: 2021/2/17(水) 19:00～21:30
    * 場所: オンライン開催
    * タイムスケジュール
       * 19:00 OWASP Fukuokaスタート
