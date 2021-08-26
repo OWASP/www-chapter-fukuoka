@@ -25,7 +25,7 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
       * 19:45 OWASP Fukuokaスタート
       * 20:30 OWASP Saitamaスタート
    * トークトピック(OWASP Fukuoka)
-      * タイトル未定 - OWASP Fukuoka Chapter Board Member Yusuke Nakano
+      * Mobile Application Security Verification Standard(MASVS) - OWASP Fukuoka Chapter Board Member Yusuke Nakano
    * 参加お申し込み
       * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/221402/)
       
