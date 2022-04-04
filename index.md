@@ -17,8 +17,17 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
 ## 次回ミーティング
 
 ### OWASP Fukuoka Meeting #6
-次回Meetingは4/27(水)19:00~ オンラインにて予定しています。
-詳細はもうしばらくお待ちください。
+今回はOWASP Sendaiとのリレー開催です。参加登録はいずれのチャプターからお申込みいただいても両方にご参加いただけます。オンライン配信のURLは共通です、どちらからでも参加可能です。
+   * 日時: 2022/4/27(水) 19:00～21:00
+   * 場所: オンライン開催
+   * タイムスケジュール
+      * 19:00 OWASP Fukuokaスタート
+      * 20:00 OWASP Sendaiスタート
+      * 21:00 クローズ
+   * トークトピック(OWASP Fukuoka)
+      * Kubernetes基盤におけるソフトウェア開発のセキュリティ - Dapr の概念と実装について - OWASP Fukuoka Chapter Board Member Shuya Motouchi
+   * 参加お申し込み
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/244388/)
       
 ---
 
