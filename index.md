@@ -25,7 +25,7 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
       * 20:00 OWASP Sendaiスタート
       * 21:00 クローズ
    * トークトピック(OWASP Fukuoka)
-      * Kubernetes基盤におけるソフトウェア開発のセキュリティ - Dapr の概念と実装について - OWASP Fukuoka Chapter Board Member Shuya Motouchi
+      * Protocol Buffers/gRPC を安全に書き進めるためのエトセトラ - OWASP Fukuoka Chapter Board Member Shuya Motouchi
    * 参加お申し込み
       * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/244388/)
       
