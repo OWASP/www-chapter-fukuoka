@@ -9,6 +9,20 @@ tags: fukuoka-tag
 
 ## 過去のミーティング
 
+### OWASP Fukuoka Meeting #6
+今回はOWASP Sendaiとのリレー開催です。参加登録はいずれのチャプターからお申込みいただいても両方にご参加いただけます。オンライン配信のURLは共通です、どちらからでも参加可能です。
+   * 日時: 2022/4/27(水) 19:00～21:00
+   * 場所: オンライン開催
+   * タイムスケジュール
+      * 19:00 OWASP Fukuokaスタート
+      * 20:00 OWASP Sendaiスタート
+      * 21:00 クローズ
+   * トークトピック(OWASP Fukuoka)
+      * Protocol Buffers/gRPC を安全に書き進めるためのエトセトラ - OWASP Fukuoka Chapter Board Member Shuya Motouchi
+   * 参加お申し込み
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/244388/)
+      
+
 ### OWASP Fukuoka Meeting #5
 今回は GMO ペパボ株式会社 福岡オフィス 7F にて、オフライン開催です。 ワクチン接種完了者限定とし、当日はワクチン接種完了が確認できるもの(公式な証明書じゃなくても OK )をお持ちください。会場内はマスク着用義務です。 また、状況によりイベントキャンセルの可能性もあります。キャンセルの際は Connpass を通して通知いたします。
    * 日時: 2021/12/03(金) 19:00～21:00
