@@ -25,7 +25,7 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
       * 20:00 OWASP Sendaiスタート
       * 21:00 クローズ
    * トークトピック(OWASP Fukuoka)
-      * 調整中 - Keita Nomura
+      * モバイルアプリケーション診断に入門する: Android編 - Keita Nomura
    * 参加お申し込み
       * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/263031/)
       
