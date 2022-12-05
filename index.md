@@ -17,15 +17,12 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
 ## 次回ミーティング
 
 ### OWASP Fukuoka Meeting #9
-今回はOWASP Sendai, Saitamaとのリレー開催です。参加登録はいずれのチャプターからお申込みいただいても両方にご参加いただけます。オンライン配信のURLは共通です、どちらからでも参加可能です。
+今回はOWASP Sendaiとのリレー開催です。参加登録はいずれのチャプターからお申込みいただいても両方にご参加いただけます。オンライン配信のURLは共通です、どちらからでも参加可能です。
    * 日時: 2022/12/07(水) 19:00～21:00
    * 場所: オンライン開催
    * タイムスケジュール
-      * 19:00 OWASP Sendaiスタート
-      * 19:30 OWASP Sendaiスタート
-      * 20:00 OWASP Fukuokaスタート
-      * 20:30 LT大会
-      * 21:00 クローズ
+      * 19:00 OWASP Fukuokaスタート
+      * 20:00 クローズ
    * トークトピック(OWASP Fukuoka)
       * セキュア・バイ・デザインの鳴くところ - OWASP Fukuoka Board Member Shuya Motouchi
    * 参加お申し込み
