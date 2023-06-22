@@ -16,17 +16,19 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
 
 ## 次回ミーティング
 
-### OWASP Fukuoka Meeting #10
-今回はオンライン開催です。URLは後日参加登録した方宛にメッセージでお送りします。
-   * 日時: 2023/04/19(水) 19:00～20:00
-   * 場所: オンライン開催
+### OWASP Fukuoka Meeting #12
+今回はエンジニアカフェにて開催します。
+   * 日時: 2023/07/22(土) 19:00～20:00
+   * 場所: エンジニアカフェ 〒810-0001 福岡県福岡市中央区天神１丁目１５−３０ (福岡市赤煉瓦文化館)
    * タイムスケジュール
-      * 19:00 OWASP Fukuokaスタート
-      * 20:00 クローズ
+      * 13:50 ~ 14:00 受付
+      * 14:00 ~ 14:05 Opening
+      * 14:05 ~ 16:45 「脅威モデリングワークショップ」
+      * 16:45 ~ 17:00 Closing
    * トークトピック
-      * ECサイト構築・運用セキュリティガイドラインを読み解く会 - OWASP Fukuoka Chapter Leader Yuichi Hattori, OWASP Fukuoka Chapter Leader Kohei Morita, OWASP Fukuoka Board Member Shuya Motouchi
+      * 「脅威モデリングワークショップ」 - OWASP Fukuoka Chapter Leader Kohei Morita
    * 参加お申し込み
-      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/279630/)
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/288143/)
       
 ---
 
