@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Fukuoka
 tags: fukuoka-tag
 region: Asia
+country: Japan
 meeting-platform: connpass
 
 ---
