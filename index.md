@@ -17,18 +17,18 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
 
 ## 次回ミーティング
 
-### OWASP Fukuoka Meeting #15
+### OWASP Fukuoka Meeting #16
 
 今回はエンジニアカフェにて開催します。
 
-   * 日時: 2024/06/11(火) 19:00～20:30
+   * 日時: 2024/11/19(水) 19:00～20:30
    * 場所: エンジニアカフェ 〒810-0001 福岡県福岡市中央区天神１丁目１５−３０ (福岡市赤煉瓦文化館)
    * タイムスケジュール
       * 18:50 ~ 19:00 受付
-      * 19:00 ~ 20:00 Threat modeling: Diversity for the win / 小笠 貴晴さん (OWASP Sendai)
+      * 19:00 ~ 20:00 CISベンチマークとクラウドセキュリティ / Ryosei Hamamura
       * 20:00 ~ 20:30 LT (あれば) & ディスカッション / 撤収
    * 参加お申し込み
-      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/318955/)
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/335657/)
 
 ---
 

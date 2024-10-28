@@ -9,6 +9,19 @@ tags: fukuoka-tag
 
 ## 過去のミーティング
 
+### OWASP Fukuoka Meeting #15
+
+今回はエンジニアカフェにて開催します。
+
+   * 日時: 2024/06/11(火) 19:00～20:30
+   * 場所: エンジニアカフェ 〒810-0001 福岡県福岡市中央区天神１丁目１５−３０ (福岡市赤煉瓦文化館)
+   * タイムスケジュール
+      * 18:50 ~ 19:00 受付
+      * 19:00 ~ 20:00 Threat modeling: Diversity for the win / 小笠 貴晴さん (OWASP Sendai)
+      * 20:00 ~ 20:30 LT (あれば) & ディスカッション / 撤収
+   * 参加お申し込み
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/318955/)
+
 ### OWASP Fukuoka Meeting #14
 今回はエンジニアカフェにて開催します。
    * 日時: 2024/04/25(木) 19:00～20:30
