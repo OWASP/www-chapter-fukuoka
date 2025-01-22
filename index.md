@@ -29,7 +29,7 @@ OWASP Fukuokaとは、アメリカメリーランド州を本部とするWebア�
       * 18:30 ~ スタート
       * 20:30 ~ 終了
    * 参加お申し込み
-      * [Connpassのお申し込みページへ]()
+      * [Connpassのお申し込みページへ](https://owasp-kyushu.connpass.com/event/343468/)
 
 ---
 
