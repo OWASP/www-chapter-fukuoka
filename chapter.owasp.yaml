@@ -1,0 +1,24 @@
+leaders:
+  - name: Yuichi Hattori
+    email: yuichi.hattori@owasp.org
+    github: sc-hattori
+  - name: Kohei Morita
+    email: kohei.morita@owasp.org
+    github: mrtc0
+location:
+  country: Japan
+  country_code: JP
+  region: Fukuoka Prefecture
+  city: Fukuoka
+  latitude: 33.6251241
+  longitude: 130.6180016
+name: OWASP Fukuoka
+repositories:
+  - name: www-chapter-fukuoka
+    url: https://github.com/OWASP/www-chapter-fukuoka
+    description: OWASP Foundation Web Repository
+tags:
+  - fukuoka-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-fukuoka
