@@ -6,6 +6,4 @@
 
 ### Board Members
 
-* Shuya Motouchi
 * Yusuke Nakano
-* Katsumi Kotake
